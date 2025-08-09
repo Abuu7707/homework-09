@@ -24,7 +24,7 @@ int Sum(int number)
 int a = Convert.ToInt32(System.Console.ReadLine());
 System.Console.WriteLine(Sum(a));*/
 
-/*Task 4
+/*Task 3
 int Sum(int number)
 {
     if (number <= 1)
@@ -38,3 +38,4 @@ int Sum(int number)
 }
 int a = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine(Sum(a));*/
+
