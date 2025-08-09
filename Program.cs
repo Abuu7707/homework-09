@@ -54,3 +54,18 @@ int Sum(int number)
 int a = Convert.ToInt32(System.Console.ReadLine());
 System.Console.WriteLine(Sum(a));*/
 
+/*Task 5
+int Sum(int number)
+{
+    if (number == 0)
+    {
+        return 0;
+    }
+    else
+    {
+     return 1 + Sum(number / 10);   
+    }
+}
+int a = Convert.ToInt32(System.Console.ReadLine());   
+System.Console.WriteLine(Sum(a));*/
+
