@@ -12,3 +12,4 @@ C:\Users\Abu\Desktop\Homework09\obj\Debug\net9.0\refint\Homework09.dll
 C:\Users\Abu\Desktop\Homework09\obj\Debug\net9.0\Homework09.pdb
 C:\Users\Abu\Desktop\Homework09\obj\Debug\net9.0\Homework09.genruntimeconfig.cache
 C:\Users\Abu\Desktop\Homework09\obj\Debug\net9.0\ref\Homework09.dll
+C:\Users\Abu\Desktop\Homework09\obj\Debug\net9.0\Homework09.sourcelink.json
